@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<style>
+body	{background-color: black;}
+
+h1	{color: white;
+	 font-family:arial;
+	 text-align:center;
+	 font-size:300%;
+	 background-color:DodgerBlue;
+	 border:2px solid white;
+}
+
+h2	{color:white;
+	 font-family:tahoma;
+	 text-align:center;
+	 background-color:DodgerBlue;
+}
+
+pre	{color: white;
+	 font-family:arial;
+	 text-align:center;
+	 border: 1px solid white;
+}
+
+
+</style>	
+</head>
+</body>
+<link rel="stylesheet" href="file:///C:/Users/user/Desktop/index.htm.css">
+<h1> LAW 12</h1>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">GiveUp</a>
+<hr>
+
+<h2> KNOW YOUR LEGAL RIGHTS </h2>
+
+<h3 style="color:white;font-family:tahoma;text-align:center;background-color:DodgerBlue"> Edison Tang </h3>
+
+<pre> Hello, this my first paragraph that I am typing as of 4/28/2018 at 8:10 pm.
+I am learning how to make a website 
+so that I can use it 
+for 
+my 
+Law 12 project.</pre>
+
+<a href="http://aikenhead.yolasite.com/"> 
+    <img src="ok.jpg"  width="100" height="100">
+</a>
+
+
+<button>PYRAMID</button>
+<ul>
+	<li style="color:white;font-family:tahoma"> Pyramid1</li>
+	<li>Pyramid2</li>
+	<li>Pyramid3</li>
+</ul>
+
+
+</html>
