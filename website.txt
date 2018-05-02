@@ -2,9 +2,9 @@
 <html>
 <head>
 <style>
-body	{background-color: black;}
+body	{background-color: white;}
 
-h1	{color: white;
+h1	{color: black;
 	 font-family:arial;
 	 text-align:center;
 	 font-size:300%;
@@ -12,7 +12,7 @@ h1	{color: white;
 	 border:2px solid white;
 }
 
-h2	{color:white;
+h2	{color:black;
 	 font-family:tahoma;
 	 text-align:center;
 	 background-color:DodgerBlue;
@@ -36,7 +36,7 @@ pre	{color: white;
 
 <h2> KNOW YOUR LEGAL RIGHTS </h2>
 
-<h3 style="color:white;font-family:tahoma;text-align:center;background-color:DodgerBlue"> Edison Tang </h3>
+<h3 style="color:black;font-family:tahoma;text-align:center;background-color:DodgerBlue"> Edison Tang </h3>
 
 <pre> Hello, this my first paragraph that I am typing as of 4/28/2018 at 8:10 pm.
 I am learning how to make a website 
